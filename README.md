@@ -20,7 +20,6 @@
 
 # 📊 GitHub Stats:
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://vercel.app" alt="Hemant's GitHub Stats" height="180px" />
   <img src="https://herokuapp.com" alt="Hemant's Streak Stats" height="180px" />
