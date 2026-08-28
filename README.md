@@ -19,9 +19,17 @@
 *   **Developer Tools:** Git, GitHub, Postman
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hemantmishra-lab&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hemantmishra-lab&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemantmishra-lab&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://vercel.app" alt="Hemant's GitHub Stats" height="180px" />
+  <img src="https://herokuapp.com" alt="Hemant's Streak Stats" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" alt="Top Languages" height="180px" />
+</p>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hemantmishra-lab&icon=0&color=0)](https://visitcount.itsvg.in)
