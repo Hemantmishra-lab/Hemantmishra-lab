@@ -4,7 +4,6 @@
 - 🌱 **Currently learning:** Advanced System Design patterns, Kubernetes orchestration, and Azure Cloud Management.
 - 👯 **Looking to collaborate on:** Open-source cloud-native applications, backend infrastructure, and heavy event-driven microservice projects.
 - 💬 **Ask me about:** Java development, ORM caching strategies (Redis), Apache Kafka integration, and cloud deployment pipelines.
-- 📫 **How to reach me:** h3086097@gmail.com or connect with me on LinkedIn.
 
 ## 🌐 Connect & Profiles:
 
