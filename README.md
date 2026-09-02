@@ -21,7 +21,6 @@
 *   **Core CS Fundamentals:** DSA, OOP, Concurrency & Multithreading, Operating Systems (OS), DBMS (SQL), Computer Networks (CN)
 *   **Developer Tools:** Git, GitHub, Postman
 
-# 📊 GitHub Stats:
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://vercel.app" alt="Hemant's GitHub Stats" height="180px" />
