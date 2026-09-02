@@ -22,7 +22,6 @@ Instagram LinkedIn Pinterest Reddit X email
 - **Databases & Storage:** MySQL, PostgreSQL, Redis, MinIO, Flyway
 - **Core CS Fundamentals:** DSA, OOP, Concurrency & Multithreading, Operating Systems (OS), DBMS (SQL), Computer Networks (CN)
 - **Developer Tools:** Git, GitHub, Postman
-
 # 📊 GitHub Stats:
 
 ### 📊 GitHub Stats
