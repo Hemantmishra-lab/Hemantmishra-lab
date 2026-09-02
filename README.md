@@ -26,10 +26,10 @@ Instagram LinkedIn Pinterest Reddit X email
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://vercel.app" alt="Hemant's GitHub Stats" height="180px" />
-  <img src="https://herokuapp.com" alt="Hemant's Streak Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemantmishra-lab&show_icons=true&theme=radial" alt="Hemant's GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemantmishra-lab&theme=radial" alt="Hemant's Streak Stats" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://vercel.app" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemantmishra-lab&layout=compact&theme=radial" alt="Top Languages" height="180px" />
 </p>
