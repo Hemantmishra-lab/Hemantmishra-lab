@@ -1,6 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on: Building a robust Multi-Module Java Full-Stack repository covering Core Java, Hibernate ORM, and Spring frameworks.<br>👯 I’m looking to collaborate on: Open-source Java projects or cloud-native applications involving AWS and Azure infrastructure.<br>🤝 I’m looking for help with: Advanced System Design patterns and scaling microservices using Docker and Kubernetes.<br>🌱 I’m currently learning: Spring Boot and Azure Cloud Management to enhance my backend and DevOps capabilities.<br>💬 Ask me about: Java development, ORM strategies, or the intersection of Technology and Global Geopolitics.<br>⚡ Fun fact: While I enjoy architecting scalable cloud environments, I spend my free time analyzing global power shifts and geopolitical strategies.
-
+*   🔭 **Currently building:** Highly scalable, multi-module backend architectures utilizing Core Java, Spring Cloud, and Hibernate ORM.
+*   🌱 **Currently learning:** Advanced System Design patterns, Kubernetes orchestration, and Azure Cloud Management.
+*   👯 **Looking to collaborate on:** Open-source cloud-native applications, backend infrastructure, and heavy event-driven microservice projects.
+*   💬 **Ask me about:** Java development, ORM caching strategies (Redis), Apache Kafka integration, and cloud deployment pipelines.
+*   📫 **How to reach me:** [h3086097@gmail.com](mailto:h3086097@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/hemant-mishra-84158b298).
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hemant13872) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemant-mishra-84158b298) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hemantmishra19781978) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Slight-Power4925) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HemantMish39940) 
