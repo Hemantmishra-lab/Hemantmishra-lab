@@ -6,9 +6,22 @@
 - 💬 **Ask me about:** Java development, ORM caching strategies (Redis), Apache Kafka integration, and cloud deployment pipelines.
 - 📫 **How to reach me:** h3086097@gmail.com or connect with me on LinkedIn.
 
-## 🌐 Socials:
+## 🌐 Connect & Profiles:
 
-Instagram LinkedIn Pinterest Reddit X email
+<p align="left">
+  <a href="https://linkedin.com/in/hemantmishra26" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://hub.docker.com/u/hemantmishra1978" target="_blank">
+    <img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" />
+  </a>
+  <a href="https://x.com/HemantMish39940" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:h3086097@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 # 💻 Tech Stack:
 
@@ -22,9 +35,9 @@ Instagram LinkedIn Pinterest Reddit X email
 - **Databases & Storage:** MySQL, PostgreSQL, Redis, MinIO, Flyway
 - **Core CS Fundamentals:** DSA, OOP, Concurrency & Multithreading, Operating Systems (OS), DBMS (SQL), Computer Networks (CN)
 - **Developer Tools:** Git, GitHub, Postman
+
 # 📊 GitHub Stats:
 
-### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Hemantmishra-lab&show_icons=true&theme=radial" alt="Hemant's GitHub Stats" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemantmishra-lab&theme=radial" alt="Hemant's Streak Stats" height="180px" />
