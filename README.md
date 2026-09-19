@@ -7,20 +7,20 @@
 
 ## 🌐 Connect & Profiles:
 <p align="left">
-  <a href="https://linkedin.com/in/hemantmishra26" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
   </a>
-  <a href="https://hub.docker.com/u/hemantmishra1978" target="_blank">
-    <img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" />
+  <a href="https://docker.com" target="_blank">
+    <img src="https://shields.io" alt="Docker Hub" />
   </a>
-  <a href="https://x.com/HemantMish39940" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  <a href="https://x.com" target="_blank">
+    <img src="https://shields.io" alt="X" />
   </a>
-  <a href="https://www.youtube.com/@HemantMishra-x8y" target="_blank">
+  <a href="https://youtube.com" target="_blank">
     <img src="https://shields.io" alt="YouTube" />
   </a>
   <a href="mailto:h3086097@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://shields.io" alt="Email" />
   </a>
 </p>
 
