@@ -6,7 +6,6 @@
 - 💬 **Ask me about:** Java development, ORM caching strategies (Redis), Apache Kafka integration, and cloud deployment pipelines.
 
 ## 🌐 Connect & Profiles:
-
 <p align="left">
   <a href="https://linkedin.com/in/hemantmishra26" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -17,10 +16,14 @@
   <a href="https://x.com/HemantMish39940" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
+  <a href="https://www.youtube.com/@HemantMishra-x8y" target="_blank">
+    <img src="https://shields.io" alt="YouTube" />
+  </a>
   <a href="mailto:h3086097@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
 
 # 💻 Tech Stack:
 
